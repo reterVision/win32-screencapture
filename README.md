@@ -20,7 +20,7 @@ TODO list
 1. Add Unit Test.
 2. Fix bugs.
 
-License
+MIT License
 ===================
 Copyright (C) 2012 Brandon Gao
 
